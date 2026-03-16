@@ -36,14 +36,6 @@ If a user wants to get in touch, the assistant can record their email using a to
 
 If the model encounters a question it cannot answer, it logs the question so the system can be improved later.
 
-## Project Structure
-
-|-- app.py
-|-- requirements.txt
-|-- me
-    |-- linkedin.pdf
-    |-- summary.txt
-
 ## Running Locally
 
 Install dependencies:
@@ -61,4 +53,5 @@ Run the application:
 ## Author
 
 Dharshini Thirumal
+
 Computer Science Graduate | Software Engineer
