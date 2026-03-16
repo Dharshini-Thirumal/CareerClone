@@ -1,10 +1,3 @@
----
-title: 1_foundations
-app_file: app.py
-sdk: gradio
-sdk_version: 5.49.1
----
-
 # AI Career Clone
 
 An AI-powered chatbot that answers questions about my background, skills, and experience using my LinkedIn profile and personal summary.
